@@ -1,4 +1,4 @@
-# 100-days-of-code
+# 100 Days of Code
 
 This repo contains my practice exercises on loops from the "100 Days of Code" Python Bootcamp course.
 
